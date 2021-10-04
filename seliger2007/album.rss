@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>seliger2007</title>
+   	<link>..</link>
+   	
+        
+    	<jalbum:link rel="sub" href="fr keno/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="fr sun/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="lastway/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="ot hosp/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="preseliger[emt]/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="preseliger[keno]/album.rss" />   	
+    	
+        
+    </channel>
+</rss>
